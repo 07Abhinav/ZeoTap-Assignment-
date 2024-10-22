@@ -40,7 +40,7 @@ This is a simple 3-tier rule engine application that determines user eligibility
 ## Instructions
 
   ### Prerequisites
-  - Python 3.6 or higher
+  - Python 3.10 or higher
   - Flask
   - SQLite (for database)
 
