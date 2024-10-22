@@ -34,7 +34,7 @@ This project is a real-time weather monitoring system that retrieves weather dat
 
 ## Instructions
 ### Prerequisites
-    - Python 3.8 or higher
+    - Python 3.10 or higher
     - An OpenWeatherMap API key
 
 ### Build and Install
